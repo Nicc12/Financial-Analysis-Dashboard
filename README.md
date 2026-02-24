@@ -14,4 +14,4 @@ This repository includes 3 files:
 * CostBenefitProject.xlsx is the excel file that contains data structure, calculations of KPIs (IRR, NPV, ROI, PBP, BCR), and a dashboard that breaks down the profitability of a project.
 * Dashboard Picture.png is the image of the dashboard created in Excel. 
 
-![Image](`Dashboard Picture.png`)
+![Image](Dashboard_Picture.png)
