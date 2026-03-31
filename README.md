@@ -1,5 +1,8 @@
-# Financial Analysis Dashboard 💸
-This project utilizes Excel to collect and analyze revenue data over of 6 year period to conduct a Cost-Benefit Analysis, with the final product being a dashboard.
+# [Financial Analysis Dashboard 💸]: Visualizing revenue data in Excel
+
+The Goal: Built a descriptive dashboard that displays IRR, NPV, ROI, PBP, and BCR for 6 years of revenue data. 
+
+The Impact: Fueled project evaluation through generating Key Performance Indicators. 
 
 ### Tech & Methods ⚙️
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
