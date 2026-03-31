@@ -23,6 +23,7 @@ The Impact: Fueled project evaluation through generating Key Performance Indicat
 Insight 1: Identified a 2-year payback period for a Project with a 59.88% return on Investment.
 Insight 2: Discovered the Cost-Benefit Ratio to be 1.6 and an internal rate of return of 45%
 
+![Image](Dashboard_Picture.png)
 
 ### 📂 Repository Structure
 
@@ -30,5 +31,3 @@ Data: CostBenefitProject.xlsx
 Notebooks: CostBenefitProject.xlsx
 src: None
 Project_Analysis: Dashboard Picture.png
-
-![Image](Dashboard_Picture.png)
