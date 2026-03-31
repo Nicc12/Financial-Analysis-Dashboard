@@ -1,14 +1,16 @@
 # [Financial Analysis Dashboard 💸]: Visualizing revenue data in Excel
 
+### 📋 Overview
 The Goal: Built a descriptive dashboard that displays IRR, NPV, ROI, PBP, and BCR for 6 years of revenue data. 
 
 The Impact: Fueled project evaluation through generating Key Performance Indicators. 
 
-### Tech & Methods ⚙️
+### Tech & Methods ⚙️:
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-* Excel
-* Dashboard
 
+* Languages/Tools: Excel
+* Libraries: None
+* Concepts: IRR, NPV, ROI, PBP, BCR
 ---
 
 ### Repository Information 📄
